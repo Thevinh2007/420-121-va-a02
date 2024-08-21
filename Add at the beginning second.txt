@@ -2,3 +2,5 @@ I added a line to te beginning.
 
 Here is a second file!
 It is a wonderful file!
+
+I added a line at the end
